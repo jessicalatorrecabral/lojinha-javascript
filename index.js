@@ -51,40 +51,7 @@ if (vitrine === 'brinquedos') {
 
 }
 
-    
-
-
-
-
-    /* if(vitrine === 'alimentos'){
-        for (let index = 0; index < listaDeAlimentos.length; index++) {
-            const element = listaDeAlimentos[index]
-            console.log(element)
-            
-        }
-        const produto = prompt('Qual produto deseja comprar?')
-     
-         const indexProduto = listaDeAlimentos.indexOf(produto)
-         listaDeAlimentos.splice(indexProduto,1)
-         console.log('compra realizada com sucesso!')
-         console.log(listaDeAlimentos)
-         
-     
-     }if (vitrine === 'brinquedos') {
-         for (let index = 0; index < listaDeBrinquedos.length; index++) {
-             const element = listaDeBrinquedos[index]
-             console.log(element)
-             
-         }
-          produto = prompt('Qual produto deseja comprar?')
-     
-         indexProduto = listaDeBrinquedos.indexOf(produto)
-         listaDeBrinquedos.splice(indexProduto,1)
-         console.log('compra realizada com sucesso!')
-         console.log(listaDeBrinquedos)
-     
-     } */
-
+ 
 
 
 
@@ -95,12 +62,7 @@ if (vitrine === 'brinquedos') {
 
 
 
-// const produto = prompt('Qual produto deseja comprar?')
 
-
-// const indexProduto = listaDeAlimentos.indexOf(produto)
-// listaDeAlimentos.splice(produto,1)
-// console.log('compra realizada com sucesso!')
 
 
 
