@@ -5,9 +5,6 @@ const listaDeBrinquedos = ['Hot Wheels', 'massinha de modelar', 'Barbie', 'Bonec
 alert("Bem-vindo(a) a lojinha no console! \nPrimeiro abra o console do navegador e em seguida clique em 'começar a comprar' para fazer suas compras. \nLembre-se: para sair da loja digite 'sair' \nBoas compras!!")
 let vitrine
 
-
-
-
 function chamarLoop() {
 
 
