@@ -6,12 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="index.js"></script>
     <title>🛒 Lojinha</title>
+    <style>
+        body{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        button{
+            margin-top: 32px;
+            background-color: red;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 8px;
+        }
+    </style>
 </head>
 <body>
-    
-    <center>
-        <h2>Olá bem-vindo(a) ao mercadinho no console</h2>
-        <img src="./imagem/mercado.jpg" alt="Mulher com carrinho de supermercado" width="500px">
-    </center>
+    <h2>Olá bem-vindo(a) ao mercadinho no console</h2>
+    <img src="./imagem/mercado.jpg" alt="Mulher com carrinho de supermercado" width="500px">
+    <button onclick="chamarLoop()">Começar a comprar!!</button>
 </body>
 </html>
